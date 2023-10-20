@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MAUI_Project_NativeApp.props" />
+</Project>
