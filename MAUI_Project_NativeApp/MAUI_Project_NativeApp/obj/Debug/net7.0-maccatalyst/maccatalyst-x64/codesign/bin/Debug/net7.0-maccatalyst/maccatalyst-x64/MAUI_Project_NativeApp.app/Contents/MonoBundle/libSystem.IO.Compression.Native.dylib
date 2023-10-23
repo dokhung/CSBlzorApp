@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/kuredogyon/Documents/CSBlzorApp/MAUI_Project_NativeApp/MAUI_Project_NativeApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/MAUI_Project_NativeApp.app/Contents/MonoBundle/libSystem.IO.Compression.Native.dylib
